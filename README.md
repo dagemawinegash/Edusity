@@ -19,7 +19,7 @@ Currently, two official plugins are available:
 - **Responsive Design**: Optimized for both desktop and mobile views to ensure accessibility across devices.
 
 ##  🌐 Demo
-Explore the live demo here: [Edusity Demo](https://670d2bdcd478fd47ba91d30c--preeminent-wisp-2712d2.netlify.app/)
+Explore the live demo here: [Edusity Demo](https://edusity-new.vercel.app/)
 
 ## 🚀 Clone the Project
 
